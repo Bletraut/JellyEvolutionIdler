@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be841a1878b497b47878d404cc34f2d9, type: 3}
+  m_Name: Jelly6
+  m_EditorClassIdentifier: 
+  type: {fileID: 11400000, guid: 666a635a9ea32424aaf9b7a89450216e, type: 2}
+  entityName: Jelly6
+  _gameObjectPrefab: {fileID: 2327190742173734392, guid: 36ce0f90b59205b4194f5abcee288277, type: 3}
+  _containedEntityData: {fileID: 11400000, guid: f11489646ee0ade4794b60647ec39b4f, type: 2}
+  _level: 64
+  _coinData: {fileID: 11400000, guid: 8770891ec429428409970ccd89f80eda, type: 2}
